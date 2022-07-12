@@ -16,13 +16,13 @@ When you deploy an application, you must also deploy the files that are required
 
 ::: moniker range="msvc-170"
 
-To view the "REDIST list" that's referenced in the "Distributable Code" section of the Visual Studio 2022 Microsoft Software License Terms, see [Distributable code files for Microsoft Visual Studio 2022](/visualstudio/releases/2022/redistribution#-distributable-code-files-for-visual-studio-2022)
+To view the "REDIST list" that's referenced in the "Distributable Code" section of the Visual Studio 2022 Microsoft Software License Terms, see [Distributable code files for Microsoft Visual Studio 2022](/visualstudio/releases/2022/redistribution#-distributable-code-files-for-visual-studio-2022).
 
 ::: moniker-end
 
 ::: moniker range="msvc-160"
 
-To view the "REDIST list" that's referenced in the "Distributable Code" section of the Visual Studio 2019 Microsoft Software License Terms, see [Distributable Code Files for Microsoft Visual Studio 2019](/visualstudio/releases/2019/redistribution#-distributable-code-files-for-visual-studio-2019)
+To view the "REDIST list" that's referenced in the "Distributable Code" section of the Visual Studio 2019 Microsoft Software License Terms, see [Distributable Code Files for Microsoft Visual Studio 2019](/visualstudio/releases/2019/redistribution#-distributable-code-files-for-visual-studio-2019).
 
 ::: moniker-end
 
